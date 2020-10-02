@@ -524,8 +524,8 @@
         "assign-to-customer-text": "디바이스를 할당할 커스터머를 선택하세요.",
         "device-details": "디바이스 상세정보",
         "add-device-text": "디바이스 추가",
-        "credentials": "크리덴셜",
-        "manage-credentials": "크리덴셜 관리",
+        "credentials": "자격 증명",
+        "manage-credentials": "자격 증명 관리",
         "delete": "디바이스 삭제",
         "assign-devices": "디바이스 할당",
         "assign-devices-text": "{ count, plural, 1 {디바이스 1개} other {디바이스 #개} }를 커서터머에 할당",
@@ -694,11 +694,11 @@
         "errors-occurred": "오류가 발생했습니다"
     },
     "extension": {
-        "extensions": "Extensions",
+        "extensions": "확장",
         "selected-extensions": "{ count, plural, 1 {1 extension} other {# extensions} } selected",
-        "type": "Type",
-        "key": "Key",
-        "value": "Value",
+        "type": "종류",
+        "key": "키",
+        "value": "값",
         "id": "Id",
         "extension-id": "Extension id",
         "extension-type": "Extension type",
@@ -1244,10 +1244,10 @@
         "update-dashboard-state": "Update current dashboard state",
         "open-dashboard": "Navigate to other dashboard",
         "custom": "Custom action",
-        "target-dashboard-state": "Target dashboard state",
-        "target-dashboard-state-required": "Target dashboard state is required",
-        "set-entity-from-widget": "Set entity from widget",
-        "target-dashboard": "Target dashboard",
+        "target-dashboard-state": "대상 대시보드 상태",
+        "target-dashboard-state-required": "대상 대시보드 상태가 필요합니다.",
+        "set-entity-from-widget": "위젯으로 부터 객체 설정",
+        "target-dashboard": "대상 대시보드",
         "open-right-layout": "Open right dashboard layout (mobile view)"
     },
     "widgets-bundle": {
@@ -1373,10 +1373,10 @@
         }
     },
     "icon": {
-        "icon": "Icon",
-        "select-icon": "Select icon",
+        "icon": "아이콘",
+        "select-icon": "선택된 아이콘",
         "material-icons": "Material icons",
-        "show-all": "Show all icons"
+        "show-all": "모든 아이콘 보기"
     },
     "custom": {
         "widget-action": {
